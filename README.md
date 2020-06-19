@@ -1,2 +1,2 @@
 # autoitscriptscollection
-Colección de autoinstaladores en AutoIT Script
+Colección de autoinstaladores en AutoIT Script en pruebas
